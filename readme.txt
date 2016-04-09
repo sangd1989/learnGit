@@ -13,3 +13,6 @@ $ git config --global user.email "email@example.com"
 
 git status  查看文件是否被修改
 git diff	查看文件修改的内容
+
+•要随时掌握工作区的状态，使用git status命令。
+•如果git status告诉你有文件被修改过，用git diff可以查看修改内容。
